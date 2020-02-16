@@ -13,3 +13,6 @@
 
 # Dependency directories (remove the comment below to include it)
 vendor/
+consumer/consumer
+producer/cmd/create-topics/create-topics
+producer/cmd/producer/producer
